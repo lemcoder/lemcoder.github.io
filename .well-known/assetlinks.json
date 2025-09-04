@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "io.github.shortli",
       "sha256_cert_fingerprints": [
-        "20:25:08:C8:C0:28:E9:D3:EC:61:A1:56:F7:4C:C8:22:34:38:5C:8F:60:39:68:87:80:FF:A8:8A:B2:1F:5C:82"
+        "20:25:08:C8:C0:28:E9:D3:EC:61:A1:56:F7:4C:C8:22:34:38:5C:8F:60:39:68:87:80:FF:A8:8A:B2:1F:5C:82",
+        "A5:71:BE:54:C6:D5:20:0F:AB:43:66:DF:78:FA:F1:02:36:E5:8A:35:6B:D5:18:25:F7:F6:FC:3A:96:D8:48:77"
       ]
     }
   }
