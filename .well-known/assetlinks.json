@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.shortli",
+      "sha256_cert_fingerprints": [
+        "20:25:08:C8:C0:28:E9:D3:EC:61:A1:56:F7:4C:C8:22:34:38:5C:8F:60:39:68:87:80:FF:A8:8A:B2:1F:5C:82"
+      ]
+    }
+  }
+]
